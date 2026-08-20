@@ -23,4 +23,4 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UNI, y desarroll
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandraarauz373@gmail.com)
