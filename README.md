@@ -1,10 +1,21 @@
+<table>
+<tr>
+<td width="180" valign="top">
+
+<img src="https://github.com/Nazarethtinoco/Nazarethtinoco/blob/main/23f8d8d490ba2ff1125262e277f41d1a.gif?raw=true" width="150"/>
+
+</td>
+<td valign="top">
+
 # Alejandra Nazareth Tinoco
 
-Estudiante de `Ingeniería en Sistemas de Información`,| Lo que hoy parece difícil, mañana será código. Aprendiendo, creando y convirtiendo desafíos en soluciones
-
-<img src="https://github.com/Nazarethtinoco/Nazarethtinoco/blob/main/Tanjiro%20Nezuko%20And%20Zenitsu%20Sticker%20-%20Tanjiro%20Nezuko%20And%20Zenitsu%20-%20Discover%20%26%20Share%20GIFs.gif?raw=true" width="150"/>
+Estudiante de `Ingeniería en Sistemas de Información`, un entusiasta de la programación en busca de oportunidades para crecer y desarrollarme en el mundo de la tecnología.
 
 [![Portafolio](https://img.shields.io/badge/-MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Tecnologías 🚀
 
@@ -19,6 +30,7 @@ Estudiante de `Ingeniería en Sistemas de Información`,| Lo que hoy parece dif�
 ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
+
 
 ## 📫 Contacto
 
