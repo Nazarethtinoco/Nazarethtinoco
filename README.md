@@ -9,7 +9,7 @@
 
 # Alejandra Nazareth Tinoco
 
-Estudiante de `Ingeniería en Sistemas de Información`,💻 Lo que hoy parece difícil, mañana será código. Aprendiendo y creando 
+Estudiante de `Ingeniería de Sistema`,💻 Lo que hoy parece difícil, mañana será código. Aprendiendo y creando 
 
 [![Portafolio](https://img.shields.io/badge/-MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alee-tinoco.vercel.app)
 
