@@ -1,13 +1,10 @@
 # Alejandra Nazareth Tinoco
 
-Estudiante de `Ingeniería en Sistemas de Información`, un entusiasta de la programación en busca de oportunidades para crecer y desarrollarme en el mundo de la tecnología.
+Estudiante de `Ingeniería de Sistemas`, 💻  | Lo que hoy parece difícil, mañana será código. Aprendiendo, creando y convirtiendo desafíos en soluciones 
+
+
 
 [![Portafolio](https://img.shields.io/badge/-MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
-
-![Profile views](https://img.shields.io/badge/PROFILE%20VIEWS-000000?style=for-the-badge)
-![Views count](https://komarev.com/ghpvc/?username=Nazarethtinoco&style=for-the-badge&color=000000&label=)
-[![Stars](https://img.shields.io/github/stars/Nazarethtinoco?style=for-the-badge&color=000000&label=STARS)](https://github.com/Nazarethtinoco?tab=stars)
-[![Followers](https://img.shields.io/github/followers/Nazarethtinoco?style=for-the-badge&color=000000&label=FOLLOWERS)](https://github.com/Nazarethtinoco?tab=followers)
 
 ## 🚀 Tecnologías 🚀
 
@@ -22,6 +19,7 @@ Estudiante de `Ingeniería en Sistemas de Información`, un entusiasta de la pro
 ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
+
 
 ## 📫 Contacto
 
