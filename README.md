@@ -27,7 +27,6 @@ Estudiante de `Ingeniería de Sistema`,💻 Lo que hoy parece difícil, mañana 
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=512BD4)
 ![SQL Server](https://img.shields.io/badge/SQL%20SERVER-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
